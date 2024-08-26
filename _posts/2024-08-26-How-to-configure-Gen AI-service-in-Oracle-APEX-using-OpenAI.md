@@ -1,17 +1,18 @@
 ## how to configure Gen AI service in Oracle APEX using Open AI
 
 
-** In this Blog post I will explian how we can configure Gen AI service of Oracle APEX using Open AI model. **
+**In this Blog post I will explian how we can configure Gen AI service of Oracle APEX using Open AI model.**
 
-** Introduction: **
+**Introduction:**
 We can bring Gen AI capabilities based on large language model (LLms) to our applications built using Oracle APEX. The Gen AI service can be accessed through REST APIs, and by using the powerful REST Data Source
 capabilities of APEX, we can incorporate the advanced technology into our applcations with a low-code approach.
 
-Pre-Requisites:
+**Pre-Requisites:**
+
 1. Should have Open AI account and Open AI key.
 2. Access to Apex 24.1 workspace.
 
-STEP 1: Create Web Credentials in Oracle APEX
+**STEP 1: Create Web Credentials in Oracle APEX**
 
 1. Log into APEX wokspace and from APEX home page, click App Builder.
 
@@ -38,7 +39,7 @@ STEP 1: Create Web Credentials in Oracle APEX
 
    
 
-STEP 2: Now we have Web Credential we are ready to configure Gen AI service in APEX.
+**STEP 2: Now we have Web Credential we are ready to configure Gen AI service in APEX.**
 
 1. Again go to Application builder and click on Work space Utilities and this time click on Gen AI Services.
 
@@ -54,7 +55,7 @@ STEP 2: Now we have Web Credential we are ready to configure Gen AI service in A
 
 3. It will show like below.
 
-STEP 3: Now We click on SQL Workshop --> SQL Commands and see that we have the APEX Wizard button enabled now.
+**STEP 3: Now We click on SQL Workshop --> SQL Commands and see that we have the APEX Wizard button enabled now.**
 
 Click on APEX Assistant and accept , it will open APEX Wizard.
 
