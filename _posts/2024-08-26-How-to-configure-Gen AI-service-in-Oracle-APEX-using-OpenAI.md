@@ -1,9 +1,9 @@
 ## how to configure Gen AI service in Oracle APEX using Open AI
 
 
-In this Blog post I will explian how we can configure Gen AI service of Oracle APEX using Open AI model.
+** In this Blog post I will explian how we can configure Gen AI service of Oracle APEX using Open AI model. **
 
-Introduction:
+** Introduction: **
 We can bring Gen AI capabilities based on large language model (LLms) to our applications built using Oracle APEX. The Gen AI service can be accessed through REST APIs, and by using the powerful REST Data Source
 capabilities of APEX, we can incorporate the advanced technology into our applcations with a low-code approach.
 
