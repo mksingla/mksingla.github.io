@@ -28,12 +28,14 @@ capabilities of APEX, we can incorporate the advanced technology into our applca
 ![Apex](/docs/assets/images/create.PNG)
 
 5. Fill the below attributes and click Create.
+   ```
    Name = Open AI
    Static ID = Open AI
    Authentication Type = HTTP Header
    Credentials Name = Authorization
    Credential Secret = Bearer <Your Open AI API Key> (note that there is space between Bearer and api key)
    Valid for URL = https://api.openai.com /v1
+   ```
 ![Apex](/docs/assets/images/webcred.PNG)
 
 6. It will create the Web Credentails.
@@ -46,10 +48,12 @@ capabilities of APEX, we can incorporate the advanced technology into our applca
 ![Apex](/docs/assets/images/step2-1.PNG)
 
 2. Click Create and provide the  information.
+   ```
    AI Provider = Open AI ( as I am using Open AI, if you using other provider, select accordingly)
    Name = ES Open AI Service (The name will be shown in the Generative AI Services overview page.)
    Static ID = ES_OpenAI  (The static ID is used when using the service with the APEX_AI package (APEX_AI.CHAT).)
-   Enable used by App builder 
+   Enable used by App builder
+   ```
 
    Make sure in the credential ssection web credenatils are selected that we created in Step 1.
    ![Apex](/docs/assets/images/step2-2.PNG)
@@ -58,8 +62,8 @@ capabilities of APEX, we can incorporate the advanced technology into our applca
   ![Apex](/docs/assets/images/step2-3.PNG)
 
 **STEP 3: Now We click on SQL Workshop --> SQL Commands and see that we have the APEX Wizard button enabled now.**
-![Apex](/docs/assets/images/step3-0.PNG)
+ ![Apex](/docs/assets/images/step3-0.PNG)
 Click on APEX Assistant and accept , it will open APEX Wizard.
-![Apex](/docs/assets/images/step3-1.PNG)
+ ![Apex](/docs/assets/images/step3-1.PNG)
 So we successfully configure Gen AI service with Apex.
      
