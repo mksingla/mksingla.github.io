@@ -62,8 +62,12 @@ capabilities of APEX, we can incorporate the advanced technology into our applca
   ![Apex](/docs/assets/images/step2-3.PNG)
 
 **STEP 3: Now We click on SQL Workshop --> SQL Commands and see that we have the APEX Wizard button enabled now.**
- ![Apex](/docs/assets/images/step3-0.PNG)
-Click on APEX Assistant and accept , it will open APEX Wizard.
- ![Apex](/docs/assets/images/step3-1.PNG)
-So we successfully configure Gen AI service with Apex.
+
+  ![Apex](/docs/assets/images/step3-0.PNG)
+ 
+  Click on APEX Assistant and accept , it will open APEX Wizard.
+
+  ![Apex](/docs/assets/images/step3-1.PNG)
+ 
+  So we successfully configure Gen AI service with Apex.
      
