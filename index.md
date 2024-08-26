@@ -1,5 +1,2 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Certified IT professional with years of experience in Oracle Database, OCI, Gen AI, Apex, Azure, AWS, DevOps and monitoring.
+Blogging is fun! and I love to share information with others.
