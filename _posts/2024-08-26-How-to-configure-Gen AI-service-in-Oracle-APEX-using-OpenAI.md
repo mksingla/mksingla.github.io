@@ -1,4 +1,4 @@
-how to configure Gen AI service in Oracle APEX using Open AI
+##how to configure Gen AI service in Oracle APEX using Open AI
 
 
 In this Blog post I will explian how we can configure Gen AI service of Oracle APEX using Open AI model.
