@@ -1,6 +1,6 @@
 ## This is my first blog post
 
-![RAG](docs/assets/images/Capture.PNG)
+![RAG](/assets/images/Capture.PNG)
 
  ```tsql
  SQL> select min(checkpoint_change#) from v$datafile_header
