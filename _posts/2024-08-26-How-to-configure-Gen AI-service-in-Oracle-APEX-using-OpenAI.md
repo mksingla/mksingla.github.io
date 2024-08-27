@@ -69,6 +69,6 @@ capabilities of APEX, we can incorporate the advanced technology into our applca
 
     ![Apex](/docs/assets/images/step3-1.PNG)
  
-  So we successfully configure Gen AI service with Apex. :)
+  So we successfully configure Gen AI service with Apex.
 
   In next blog I will show you how to use this Apex assiatant.   
