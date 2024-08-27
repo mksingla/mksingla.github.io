@@ -67,6 +67,8 @@ capabilities of APEX, we can incorporate the advanced technology into our applca
  
   Click on APEX Assistant and accept , it will open APEX Wizard.
 
+  In next blog I will show you how to use this Apex assiatant.
+
   ![Apex](/docs/assets/images/step3-1.PNG)
  
   So we successfully configure Gen AI service with Apex.
