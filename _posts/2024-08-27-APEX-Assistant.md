@@ -49,7 +49,46 @@ Let's see how Query Builder works.
 
   11. Now click **Clear Chat**.
 
+Now Let's see how General Assistance works:
 
+  1. From the menu, select General Assistance
+  2. Apex Assistant displays three options:
+     **- Use selection**
+     **- Improve selection**
+     **- Explain selection**
+
+    
+  3. In the Code Editor, select the query and click **Explain selection**. APEX Assistant describe the query.
+
+
+  4. Click **Clear Chat** to clear the chat windows.
+  5. Next, I select the query and click on **Use selection**, APEX Assistant respond with **how can I assist you with it?**
+
+
+  6. Now I click on Improve and assistant improved the query and specify what improvements made.
+
+  
+  7. Now let me test one more thing, by purpose I made a mistake and i removed semicolon after manager and use below query and then select Imrpove selection.
+
+   SELECT ID,
+     firstname,
+     lastname,
+     COUNTRY,
+     email,
+     position,
+     manager
+     GENDER
+FROM customer
+WHERE country = 'INDIA'
+
+APEX assistant Improve the query and also correct the query.
+
+ 8. Again, clear the chat.
+
+So you can see how interesting is this APEX Assistant which can help in query generation, query correction and query Improvement.      
+
+     
+   
 
 
 
