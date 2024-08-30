@@ -1,4 +1,4 @@
-## How to use APEX Assistant (AI chat capability) :robot:
+## How to use APEX Assistant (AI chat capability) 🤖
 
 ### Introduction:
 APEX Assistant adds AI chat capability to all APEX code editors to assist you with writing SQL queries, debugging code, and so on.
