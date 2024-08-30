@@ -57,20 +57,25 @@ Now Let's see how General Assistance works:
      **- Improve selection**
      **- Explain selection**
 
+  ![Apex](/docs/assets/apex_assistant/step2-1.PNG)
     
-  3. In the Code Editor, select the query and click **Explain selection**. APEX Assistant describe the query.
+  4. In the Code Editor, select the query and click **Explain selection**. APEX Assistant describe the query.
 
+  ![Apex](/docs/assets/apex_assistant/step2-2.PNG)
 
-  4. Click **Clear Chat** to clear the chat windows.
-  5. Next, I select the query and click on **Use selection**, APEX Assistant respond with **how can I assist you with it?**
+  5. Click **Clear Chat** to clear the chat windows.
+  6. Next, I select the query and click on **Use selection**, APEX Assistant respond with **how can I assist you with it?**
 
+  ![Apex](/docs/assets/apex_assistant/step2-3.PNG)
 
-  6. Now I click on Improve and assistant improved the query and specify what improvements made.
+  7. Now I click on Improve and assistant improved the query and specify what improvements made.
 
+  ![Apex](/docs/assets/apex_assistant/step3-3.PNG)
   
-  7. Now let me test one more thing, by purpose I made a mistake and i removed semicolon after manager and use below query and then select Imrpove selection.
+  8. Now let me test one more thing, by purpose I made a mistake and i removed semicolon after manager and use below query and then select Imrpove selection.
 
-   SELECT ID,
+   ```
+SELECT ID,
      firstname,
      lastname,
      COUNTRY,
@@ -80,8 +85,10 @@ Now Let's see how General Assistance works:
      GENDER
 FROM customer
 WHERE country = 'INDIA'
-
+```
 APEX assistant Improve the query and also correct the query.
+
+![Apex](/docs/assets/apex_assistant/step2-4.PNG)
 
  8. Again, clear the chat.
 
