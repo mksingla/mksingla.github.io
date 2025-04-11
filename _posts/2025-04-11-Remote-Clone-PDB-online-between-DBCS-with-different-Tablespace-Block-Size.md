@@ -186,6 +186,17 @@ Now my clone worked!
 SQL> create pluggable database FSDEV from FSDEV@clone_pdb_dblink keystore identified by "password";
 
 Pluggable database created.
+
+SQL> show pdbs
+
+    CON_ID CON_NAME                       OPEN MODE  RESTRICTED
+---------- ------------------------------ ---------- ----------
+         2 PDB$SEED                       READ ONLY  NO
+         3 PSSTAGE_PDB1                   READ WRITE NO
+         4 FSDEV                          MOUNTED
+SQL> alter pluggable database FSDEV open;
+
+Pluggable database altered.
 ```
 
 
