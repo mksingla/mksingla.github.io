@@ -14,14 +14,16 @@ MSPs deliver 24/7 monitoring, performance tuning, security compliance, and disas
 1. 24*7 proactive monitoring & alerting
 2. 24*7 Hotine Support Service 
 3. Preventive Maintenance
-4. Access to Oracle certified experts 
+4. Access to Oracle certified experts
+5. Fixed-Fee offering
+6. Global Delivery
 
 **Key services offered by Eclipsys Managed Services include:**
 
 - Data Security & Compliance
 - Database Health checks
 - Cloud database Migration and Management
-- Proactive Monitoring
+- Proactive Monitoring and Reporting
 - Performance Tuning
 - Backup and Disaster Recovery solution
 - Cloud Usage & hybrid Solutions
