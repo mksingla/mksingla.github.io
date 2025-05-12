@@ -1,5 +1,7 @@
 ## What is it like to lead a Managed Services team?
 
+![Apex](/docs/assets/images/Eclipsys-Stock-Photo-7.JPG)
+
 I have been the Managed Services Team Lead at Eclipsys Solutions Inc. for over three years. Today, I would like to share my journey, as well as my roles and responsibilities in this position.
 
 My primary responsibility is to maintain a relentless focus on our customers, ensuring that every service delivers exceptional value. I am fortunate to work with a talented team of Oracle experts whose skills enhance our service delivery and simplify my role. Together, we strive to create impactful solutions that consistently exceed customer expectations.
