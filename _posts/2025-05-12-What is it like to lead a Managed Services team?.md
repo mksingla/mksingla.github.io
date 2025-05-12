@@ -1,6 +1,7 @@
 ## What is it like to lead a Managed Services team?
 
-![Apex](/docs/assets/images/Eclipsys-Stock-Photo-7.JPG)
+![Apex](/docs/assets/images/Eclipsys-Stock-Photo-7.jpg)
+
 
 I have been the Managed Services Team Lead at Eclipsys Solutions Inc. for over three years. Today, I would like to share my journey, as well as my roles and responsibilities in this position.
 
