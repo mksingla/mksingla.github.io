@@ -1,5 +1,7 @@
 ## Reasons to Use Oracle 23ai Vector Search for RAG Applications
 
+![Apex](/docs/assets/images/vector.PNG)
+
 **RAG (Retrieval-augmented generation)** is a technique that can provide more accurate results to queries than a generative LLM on its own because RAG uses knowledge external to data already contained in LLM.
 
 **Oracle AI Vector Search** is an innovative feature introduced in Oracle Database 23c that enhances data retrieval capabilities. This functionality enables users to search for AI vectors directly within the database, streamlining the process of accessing complex data types. 
