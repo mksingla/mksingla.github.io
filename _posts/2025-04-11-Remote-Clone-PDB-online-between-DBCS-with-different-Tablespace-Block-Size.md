@@ -7,7 +7,7 @@ In this blog post I will show you how to create a remote clone of PDB from one D
 The difference here is both CDB have same default block size of 8K but on source PDB have all the tablespaces 16k size.
 
 ### Pre-Requisite:
-You sould have 2 DBCS environment in OCI and a source PDB with all tablespaces 16k size.
+You sould have 2 DBCS environment in OCI and a source PDB with all tablespaces 16k size. 
 
 ## Steps:
 
