@@ -1,6 +1,6 @@
 ## How to Rotate TDE master key on ExaCC with Data Guard
 
-![Apex](/docs/assets/images/TDE_RK.PNG)
+![Apex](/docs/assets/images/key_rotate2.PNG)
 
 ### Introduction:
 In this blog post I will show you how we can rotate TDE master key on ExaCC primary Database and then ensuring the standby database have the updated key.
