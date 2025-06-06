@@ -1,6 +1,6 @@
 ## How to Rotate TDE master key on ExaCC when standby on OCI DBCS
 
-![Apex](/docs/assets/images/TDE_DBCS.PNG)
+![Apex](/docs/assets/images/key_rotate-1.PNG)
 
 
 ### Introduction:
