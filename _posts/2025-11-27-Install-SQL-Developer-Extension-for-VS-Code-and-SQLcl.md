@@ -1,5 +1,7 @@
 ## Connect to Oracle Database with VS Code using SQL Developer Extension and SQLcl
 
+![Apex](/docs/assets/images/sqlcl-1.png)
+
 ### Introduction:
 In this blog post I will show you how to install Oracle SQL Developer Extension for VS Code and SQLcl. SQLcl is included with the Oracle SQL Developer Extension for VS Code.
 The extension provides integrated command-line functionality through SQLcl, allowing users to spawn CLI sessions to their database directly within VS Code.
