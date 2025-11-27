@@ -13,3 +13,11 @@ Access to Oracle Database from cloud or on-prem
 ## Steps:
 
 1. From within VS Code, navigate to Extensions, search for Oracle and "Oracle SQL Developer Extension for VSCode" will appear on the top of the results. Click Install
+
+ ![Apex](/docs/assets/images/sqlcl-2.png)  
+ 
+![Apex](/docs/assets/images/sqlcl-3.png)
+
+2. Once installed, navigate to SQL Developer Extension for VS Code located in activity Bar.
+
+   
