@@ -1,4 +1,4 @@
-## How to Install SQL Developer Extension for VS Code and SQLcl
+## Connect to Oracle Database with VS Code using SQL Developer Extension and SQLcl
 
 ### Introduction:
 In this blog post I will show you how to install Oracle SQL Developer Extension for VS Code and SQLcl. SQLcl is included with the Oracle SQL Developer Extension for VS Code.
