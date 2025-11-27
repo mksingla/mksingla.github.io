@@ -32,10 +32,15 @@ Access to Oracle Database from cloud or on-prem
 ![Apex](/docs/assets/images/sqlcl-6.png)
 
 5. Your new connection will appear in the Primary Side Bar. Click the connection name. In my case it's test1.
+   Click the connection name establishes a connection to the target database and reveals various database objects.
 
 ![Apex](/docs/assets/images/sqlcl-7.png)
 
-6. Click the connection name establishes a connection to the target database and reveals various database objects.
+7. Right click on the connection name and you can see it installed SQL Worksheet, SQL Notebook and SQLcl.
+
+![Apex](/docs/assets/images/sqlcl-8.png)
+
+In my next blog post, I will show you how to use these tools to run queries.
    
 
 
