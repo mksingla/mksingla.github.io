@@ -13,6 +13,30 @@ See my last blog post [Connect to Oracle Database with VS Code using SQL Develop
 
 Right click on your connection and click **Open SQL Notebook**
 
-It will open SQL Notebook into a new editor with unsaved **.sqlnb file**
+It will open SQL Notebook into a new editor with unsaved **.sqlnb file**. Looks similar to Jupyter notebook.
 
 
+
+
+SQL notebook features:
+1. Code completion:
+
+
+2.  We can generate query using "Generate" feature in SQL notebook by using natural language.
+
+    Click on Generate and ask any question relted to DB (If you see, it is using GPT-5 mini) model.
+
+    Once we get the rsponse , Click Accept
+
+    Now run the query
+
+3. Another feature in Markdown
+   Click on Markdown and a markdown cell will create
+
+   Now write comment or description and click on the rigth symbol
+
+4. Also, we can run any select statement and the output in grid form, which is easy to read.
+
+   
+   
+   
