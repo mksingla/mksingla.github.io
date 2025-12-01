@@ -25,6 +25,7 @@ It will open SQL Notebook into a new editor with unsaved **.sqlnb file**. Looks 
 **1. Code completion feature:**
 
  ![Apex](/docs/assets/images/nb-3.png)  
+ 
  ![Apex](/docs/assets/images/nb-4.png) 
  
 **2.  Generate Query**
@@ -35,7 +36,7 @@ Click on Generate and ask any question related to DB (If you see, it is using GP
 
 ![Apex](/docs/assets/images/nb-5.png)  
 
-    Once we get the response , Click Accept
+   Once we get the response, Click Accept
 
 ![Apex](/docs/assets/images/nb-6.png) 
 
@@ -51,6 +52,7 @@ Click on Generate and ask any question related to DB (If you see, it is using GP
    Now write comment or description and click on the right check symbol
 
 ![Apex](/docs/assets/images/nb-9.png) 
+
 ![Apex](/docs/assets/images/nb-10.png) 
 
 **4. Also, we can run any select statement and the output is shown in grid form, which is easy to read.**
