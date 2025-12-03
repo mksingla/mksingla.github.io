@@ -1,4 +1,4 @@
-## Chat with Oracle Database in natural language with SQLcl MCP Server :
+## Chat with Oracle Database in natural language with SQLcl MCP Server
 
 ![Apex](/docs/assets/MCP/mcp-1.png)
 
