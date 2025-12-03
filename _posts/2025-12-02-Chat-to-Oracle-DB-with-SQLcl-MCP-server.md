@@ -42,7 +42,7 @@ This new way of working with your Oracle database allows for a more natural/plai
    
    
 
-  ### Testing Steps:
+### Testing Steps:
    
    **1.** Click on Cline extension and ensure you see the Agent prompt, **Plan** and **Act** modes.
 
