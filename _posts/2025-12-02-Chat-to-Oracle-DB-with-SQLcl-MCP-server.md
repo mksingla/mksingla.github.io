@@ -10,8 +10,7 @@ This new way of working with your Oracle database allows for a more natural/plai
 ### Pre-Requisite:
 **1. VS Code installed**
 
-**2. Configured an Oracle database connecting using SQL Developer Extension for VS Code**, see my last blog [Connect to Oracle Database with VS Code using SQL Developer Extension and SQLcl]
-(https://mksingla.github.io/2025/11/27/Install-SQL-Developer-Extension-for-VS-Code-and-SQLcl.html)
+**2. Configured an Oracle database connecting using SQL Developer Extension for VS Code**, see my last blog post [Connect to Oracle Database with VS Code using SQL Developer Extension and SQLcl](https://mksingla.github.io/2025/11/27/Install-SQL-Developer-Extension-for-VS-Code-and-SQLcl.html)
 
 **3. Configure your preferred client**, I am configuring **Cline in VS Code**. Once configured, the MCP client autonomously handles server startup, manages its life cycle, and ensures clean termination upon session completion, while enabling Oracle Database operations through natural conversations.
 
