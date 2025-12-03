@@ -1,5 +1,7 @@
 ## Chat with Oracle Database in natural language with SQLcl MCP Server
 
+![Apex](/docs/assets/images/key_rotate2.PNG)
+
 ### Introduction:
 The Oracle SQLcl Model Context Protocol (MCP) Server transforms how you interact with the Oracle Database by enabling seamless communication with Artificial Intelligence (AI) applications.
 The SQLcl MCP server recieves its directives from the AI Agent, acting upon your requests and communicating with the database on your behalf. 
